@@ -86,4 +86,8 @@ Source for the MAGPIE values: [[cross-tables.com](https://www.cross-tables.com/l
 
 ## Word list
 
-NWL23 is the NASPA Word List 2023. It solely belongs to NASPA games, and its inclusion in this private repository is so that the script can execute fully.
+NWL23 is the NASPA Word List 2023. It solely belongs to NASPA games. In order to properly run this script, you will need to be a member of NASPA games, and include a file in this repository with the full word list, titled, NWL23.txt.
+
+## AI Disclaimer
+
+The basic methodology used was derived with help from Claude Code, which I also used to write all of the Python code.
